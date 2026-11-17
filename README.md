@@ -23,10 +23,6 @@ Turns a fresh Arch install into a Hyprland desktop with one command. Small, reru
 Personal settings are asked on first run, never committed.
 <br><sub>Bash · Hyprland · Waybar</sub>
 
-### 🔫 [Pump Action Hero](https://akpsan.github.io) · [**Play it →**](https://akpsan.github.io)
-A 12-gauge duel, playable in the browser.
-<br><sub>HTML · JavaScript</sub>
-
 ### 🌍 [LangGuessr](https://github.com/akpsan/langgussr)
 A game where you guess the language.
 <br><sub>React · TypeScript · Vite</sub>
