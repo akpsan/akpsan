@@ -20,7 +20,6 @@ No dependencies, no framework lock-in, and it picks the best placement when your
 ### 🐧 [archsetup](https://github.com/akpsan/archsetup)
 Turns a fresh Arch install into a Hyprland desktop with one command. Small, rerunnable modules
 (mirrors, hardware detection, zram, firewall, snapshots…) plus symlinked dotfiles.
-Personal settings are asked on first run, never committed.
 <br><sub>Bash · Hyprland · Waybar</sub>
 
 ### 🌍 [LangGuessr](https://github.com/akpsan/langgussr)
